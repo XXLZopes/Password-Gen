@@ -8,7 +8,7 @@ function passwordSpecifications() {
   if (window.confirm("Do you want numbers in your password?")) {
     characters += "0123456789";
   }
-  if (window.confirm("Do you want capital letters? in yout password?")) {
+  if (window.confirm("Do you want capital letters in yout password?")) {
     characters += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
   }
 
